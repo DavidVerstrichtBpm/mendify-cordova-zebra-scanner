@@ -1,0 +1,22 @@
+{
+  "name": "com.endare.cordovazebrascanner",
+  "version": "1.0.0",
+  "description": "Cordova Plugin for Zebra barcode scanners",
+  "cordova": {
+    "id": "com.endare.cordovazebrascanner",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/endarebvba/cordova-zebra-scanner.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Kenneth Saey - Endare",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/endarebvba/cordova-zebra-scanner#readme"
+}
